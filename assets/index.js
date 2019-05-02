@@ -7,9 +7,9 @@ var app = new Vue({
     el: "#app",
     data:{
         groceryList:[
-            {id:0, text: 'vegetables'},
-            {id:1, text: 'Cheese'},
-            {id:2, text: 'hamburguer' }
+            {id: 0, text: 'vegetables'},
+            {id: 1, text: 'Cheese'},
+            {id: 2, text: 'hamburguer' }
         ]   
     }
 })
